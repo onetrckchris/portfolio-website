@@ -221,6 +221,14 @@ input, select, textarea {
 			font-size: 1.25em;
 		}
 
+	.work-links {
+		text-decoration: none;
+		color: gray;
+		border: 1px solid black;
+		padding: 5px 25px;
+		border-radius: 10px;
+	}
+
 /* Container */
 
 	.container {
@@ -2121,6 +2129,11 @@ input, select, textarea {
 
 	#contact footer {
 		font-size: 0.9em;
+	}
+
+	.great-idea-img {
+		width: 100%;
+		padding: 20px;
 	}
 
 /* Copyright */
